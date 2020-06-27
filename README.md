@@ -15,6 +15,7 @@ Batch speed measuring tool based on Shadowsocks(R) and V2Ray
 
 
 需要安装相关依赖（在程序的根目录下执行）
+
 python -m pip install --upgrade pip
 
 pip3 install -r requirements.txt
